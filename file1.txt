@@ -6,3 +6,4 @@ Step2: files were added to repo
 
 Step3: file1.txt modified
 
+Step 4: task completed
