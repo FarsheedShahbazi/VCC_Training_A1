@@ -1,0 +1,8 @@
+VCC_Training_A1-2024-02-22 checklist
+
+Step1: files format
+
+Step2: files were added to repo
+
+Step3: file1.txt modified
+
